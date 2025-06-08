@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a frontend development student at Noroff.
+
+- 🔭 I’m currently working on my first Portfolio! https://portfolio-1-hallsi90.netlify.app/
+
 <!--
 **hallsi90/hallsi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
