@@ -9,7 +9,7 @@ I'm a **Frontend Development** student at **Noroff**.
 ### 💼 Featured Projects
 - 🧥 [Rainydays](https://github.com/hallsi90/javascript-1-course-assignment) – E-commerce site for premium rain jackets  
 - 🧬 [Community Science Museum](https://github.com/hallsi90/Semester-Project-1) – Educational museum site built with semantic HTML and responsive CSS  
-- 🍽️ [The Tasty Table](https://github.com/hallsi90/FED1-PE1-hallsi90) – Full blog application with CRUD functionality using JavaScript and a real API
+- 🍽️ [The Tasty Table](https://github.com/NoroffFEU/FED1-PE1-hallsi90) – Full blog application with CRUD functionality using JavaScript and a real API
 
 ### 🧰 Skills
 - HTML5, CSS3, JavaScript
